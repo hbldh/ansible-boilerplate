@@ -1,2 +1,5 @@
-# ansible-boilerplate
-A Best Practices compliant Ansible Boilerplate
+# Ansible Boilerplate
+
+A [Best Practices](http://docs.ansible.com/playbooks_best_practices.html) 
+compliant Ansible boilerplate repository.
+
